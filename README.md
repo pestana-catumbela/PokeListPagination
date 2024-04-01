@@ -13,5 +13,5 @@ REACT | TYPESCRIPT | CHAKRA UI | VITE | AXIOS | SWR
 ### App Screen Loading Datas
 ![App Screen Loading Datas](https://github.com/pestana-catumbela/PokeListPagination/blob/main/src/assets/img/Screenshot%202024-04-01%20164304.png)
 
-### App Screen Datas Loaded
+### App Screen Loaded Datas
 ![App Screen Datas Loaded](https://github.com/pestana-catumbela/PokeListPagination/blob/main/src/assets/img/Screenshot%202024-04-01%20164314.png)
