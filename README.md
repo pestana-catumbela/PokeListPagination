@@ -10,7 +10,7 @@ A React App that lists the name of pokemons with pagination using SWR.
 ### How To Run
 - Clone the project in your local environment
   ```bash
-  git clone https://github.com/pestana-catumbela/PassIn
+  git clone https://github.com/pestana-catumbela/PokeListPagination
   ```
 - Into project directory in your local environment run
   ```bash
