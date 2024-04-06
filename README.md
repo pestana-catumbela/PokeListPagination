@@ -4,7 +4,7 @@ A React App that lists the name of pokemons with pagination using SWR.
 
 [![npm](https://img.shields.io/npm/l/react)](https://github.com/pestana-catumbela/PokeListPagination/blob/main/LICENSE)
 
-### Technologies used
+### Used Technologies
 [REACT](https://react.dev/) | [TYPESCRIPT](https://www.typescriptlang.org/) | [CHAKRA UI](https://chakra-ui.com/) | [VITE](https://vitejs.dev/) | [AXIOS](https://axios-http.com/) | [SWR](https://swr.vercel.app/)
 
 ### How To Run
